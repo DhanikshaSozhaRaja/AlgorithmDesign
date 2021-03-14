@@ -1,2 +1,2 @@
-# AlgorithmDesign
-algorithm to detect collusion
+# p5.play-boilerplate
+Boiler plate for p5.play
